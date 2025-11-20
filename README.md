@@ -1,4 +1,4 @@
-## Hi there 👋
+## Howdy, I'm Xaden! 👋
 
 - 🔭 I’m currently working on getting my BS in Statistics at Texas A&M.
 - 🌱 I’m currently learning how to code in Python, R, and C.
