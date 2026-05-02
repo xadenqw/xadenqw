@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning how to code in Python, R, and C.
 - 👯 I’m looking to collaborate on fun and engaging projects.
 - 🤔 I’m looking for help with coding and statistics
-- 💬 Ask me about Calculus III.
+- 💬 Ask me about Film and Music.
 - 📫 How to reach me: xadenqw@gmail.com
 -  My Linkedin: https://www.linkedin.com/in/xaden-quintero-watson-571b61294/
 - 😄 Pronouns: He/Him
